@@ -1,0 +1,11 @@
+Model Information:
+* title:	Butterbeer
+* source:	https://sketchfab.com/3d-models/butterbeer-32acf7579c984b4dbefee6b620ea9705
+* author:	lais_moraes (https://sketchfab.com/lais_moraes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Butterbeer" (https://sketchfab.com/3d-models/butterbeer-32acf7579c984b4dbefee6b620ea9705) by lais_moraes (https://sketchfab.com/lais_moraes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
